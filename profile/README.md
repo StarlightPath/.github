@@ -2,8 +2,8 @@
 A studio dedicated to creating meaningful products and services that last for a lifetime.
 
 # Projects
-## Life Manager - An app to make your life easier by tracking grades, assignments, all in one place.
-## Transendence 0 - A story-driven game in the year 2050.
+* Life Manager - An app to make your life easier by tracking grades, assignments, all in one place.
+* Transendence 0 - A story-driven game in the year 2050.
 
 # Updates
 ### Update May 1st, 2023
