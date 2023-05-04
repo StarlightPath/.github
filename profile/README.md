@@ -7,5 +7,5 @@ A studio dedicated to creating meaningful products and services that last for a 
 
 # Updates
 ### Update May 1st, 2023
-Due to certain conditions, the finals and AP Exams on the maintainers, the development of projects will be paused until May 19th, 2023.
+Due to certain conditions, finals and AP Exams, the development of projects will be paused until May 19th, 2023.
 Thank you for your understanding, and we apologize for any inconvenience that this may cause.
